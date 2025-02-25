@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780884521662",
+    "project_id": "deepvoice-ai",
+    "storage_bucket": "deepvoice-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780884521662:android:1fdc2fe197c5f23452a4ef",
+        "android_client_info": {
+          "package_name": "com.example.real_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfRlohbQw-owLAmEBMvL985KDtCYszWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
